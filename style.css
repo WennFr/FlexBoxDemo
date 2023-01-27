@@ -1,0 +1,20 @@
+#div-1{
+    font-weight: bold;
+background-color:rgb(103, 103, 175)
+}
+
+
+div{
+    color: red;
+    background-color: rgb(143, 255, 255);
+}
+
+.bg-green{
+    background-color: rgb(179, 199, 138);
+    color:green
+
+}
+.bg-orange{
+    background-color: rgb(238, 206, 145) !important;
+}
+
